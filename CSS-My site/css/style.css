@@ -1,0 +1,163 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+span{
+  text-decoration: underline;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  margin: 0 auto 0 auto;
+  color: #086E7D;
+  line-height: 1;
+}
+
+hr{
+  border-style: dotted;
+  border-width: thick;
+  border-color: #EEEEEE;
+  border-bottom: none;
+  margin-left: 650px;
+  margin-right: 650px;
+
+}
+
+.profile-description{
+  padding: 30px;
+}
+
+.top-container{
+  margin: 0;
+  background-color: #C2DED1;
+  position: relative;
+  padding-top: 130px;
+  display: block;
+
+
+
+
+}
+
+.midddle-container{
+  width: 200px;
+  height: 200px;
+  background-color: #4FBDBA;
+}
+
+.bottom-container{
+  width: auto;
+  height: 200px;
+  margin-top: 30px;
+  background-color: #29A19C;
+  color: white;
+  line-height: 2;
+}
+
+.footer-link{
+  color: white;
+  padding-right: 20px;
+  text-decoration: none;
+  display: inline-block;
+  padding-top: 60px;
+}
+
+.footer-link:hover{
+  color: #006778;
+}
+
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  top:  330px;
+}
+
+.top-cloud{
+ position: absolute;
+ right:  300px;
+ top: 50px
+}
+
+.copyright{
+  color:  #086E7D;
+  font-size: 0.85rem;
+}
+
+
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color:  #29A19C;
+  font-weight: normal;
+}
+
+.contact-me{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  line-height: 2;
+
+
+}
+
+a{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+
+}
+
+
+.skill-row{
+
+  width: 50%;
+  margin: 70px auto 70px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+.profile{
+  display: inline-block;
+  padding-top: 50px;
+
+}
+
+.learning{
+  width: 25%;
+  float: left;
+  padding-right: 30px;
+
+}
+
+
+.coding{
+  width: 25%;
+  float: right;
+  padding-left: 30px;
+}
+
+.btn{
+  background-color: #086E7D;
+  color: white;
+  text-decoration: none;
+  padding: 10px 10px;
+  border-radius: 8px;
+  margin-bottom: 10px
+
+}
+
+
+.btn:hover{
+  color:#086E7D  ;
+  background-color: #A5E9E1;
+}
